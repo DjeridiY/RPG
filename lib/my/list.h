@@ -1,5 +1,5 @@
 /*
-** EPITECH PROJECT, 2022
+** PROJECT, 2022
 ** PushSwap
 ** File description:
 ** linked_list.h

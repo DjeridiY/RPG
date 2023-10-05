@@ -1,5 +1,5 @@
 /*
-** EPITECH PROJECT, 2022
+** PROJECT, 2022
 ** Librairy
 ** File description:
 ** my_strdup_array_of_string.c

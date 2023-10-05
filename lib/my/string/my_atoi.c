@@ -1,5 +1,5 @@
 /*
-** EPITECH PROJECT, 2022
+** PROJECT, 2022
 ** C-Library
 ** File description:
 ** string_to_int.c

@@ -1,5 +1,5 @@
 /*
-** EPITECH PROJECT, 2022
+** PROJECT, 2022
 ** c-library
 ** File description:
 ** linked_list_size.c

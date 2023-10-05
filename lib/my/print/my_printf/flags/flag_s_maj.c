@@ -1,5 +1,5 @@
 /*
-** EPITECH PROJECT, 2022
+** PROJECT, 2022
 ** flag_s.c
 ** File description:
 ** man 3 printf

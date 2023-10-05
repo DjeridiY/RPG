@@ -1,5 +1,5 @@
 /*
-** EPITECH PROJECT, 2022
+** PROJECT, 2022
 ** B-PSU-100-PAR-1-1-myls-yanis.djeridi
 ** File description:
 ** remove_char.c

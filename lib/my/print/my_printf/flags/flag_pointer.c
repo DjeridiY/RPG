@@ -1,5 +1,5 @@
 /*
-** EPITECH PROJECT, 2022
+** PROJECT, 2022
 ** flag_pointer
 ** File description:
 ** print address pointer in hexa

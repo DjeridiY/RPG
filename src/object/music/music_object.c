@@ -1,5 +1,5 @@
 /*
-** EPITECH PROJECT, 2022
+** PROJECT, 2022
 ** B-MUL-100-PAR-1-1-myhunter-yanis.djeridi
 ** File description:
 ** create_window.c

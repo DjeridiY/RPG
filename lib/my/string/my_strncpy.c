@@ -1,5 +1,5 @@
 /*
-** EPITECH PROJECT, 2022
+** PROJECT, 2022
 ** Task02
 ** File description:
 ** copie n char from a string to another

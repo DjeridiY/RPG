@@ -1,5 +1,5 @@
 /*
-** EPITECH PROJECT, 2022
+** PROJECT, 2022
 ** my_strstr.c function
 ** File description:
 ** ctrl F function in a string

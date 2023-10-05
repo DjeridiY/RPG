@@ -1,5 +1,5 @@
 /*
-** EPITECH PROJECT, 2022
+** PROJECT, 2022
 ** Minishell1
 ** File description:
 ** bubble_sort.c

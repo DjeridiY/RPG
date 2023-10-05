@@ -1,5 +1,5 @@
 /*
-** EPITECH PROJECT, 2022
+** PROJECT, 2022
 ** Paint
 ** File description:
 ** dropdown_clicked.c

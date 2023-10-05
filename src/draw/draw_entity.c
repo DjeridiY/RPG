@@ -1,5 +1,5 @@
 /*
-** EPITECH PROJECT, 2022
+** PROJECT, 2022
 ** RPG
 ** File description:
 ** draw_back.c
@@ -14,15 +14,18 @@
 
 void draw_entity(entity_t **entity, sfRenderWindow *window)
 {
-    for (int i = 0; i < entity_nbr; i++) {
-        if (entity[i]->entity_effect->show && (entity[i]->visible
-        && entity[i]->status != 2)) {
+    for (int i = 0; i < entity_nbr; i++)
+    {
+        if (entity[i]->entity_effect->show && (entity[i]->visible && entity[i]->status != 2))
+        {
             sfRenderWindow_drawSprite(window,
-                    entity[i]->entity_effect->sprite, NULL);
+                                      entity[i]->entity_effect->sprite, NULL);
         }
     }
-    for (int i = 0; i < entity_nbr; i++) {
-        if (entity[i]->visible && entity[i]->status != 2) {
+    for (int i = 0; i < entity_nbr; i++)
+    {
+        if (entity[i]->visible && entity[i]->status != 2)
+        {
             sfRenderWindow_drawSprite(window, entity[i]->sprite, NULL);
         }
     }

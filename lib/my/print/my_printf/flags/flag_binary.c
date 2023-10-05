@@ -1,5 +1,5 @@
 /*
-** EPITECH PROJECT, 2022
+** PROJECT, 2022
 ** flag_binary
 ** File description:
 ** convert decimal to binary

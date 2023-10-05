@@ -1,5 +1,5 @@
 /*
-** EPITECH PROJECT, 2022
+** PROJECT, 2022
 ** c-library
 ** File description:
 ** size_of_tab.c

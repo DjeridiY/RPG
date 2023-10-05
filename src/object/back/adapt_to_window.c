@@ -1,5 +1,5 @@
 /*
-** EPITECH PROJECT, 2022
+** PROJECT, 2022
 ** B-MUL-200-PAR-2-1-myrpg-yanis.djeridi
 ** File description:
 ** adapt_to_window.c
